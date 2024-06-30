@@ -703,10 +703,10 @@
             "hash": "f2bf2f2c7772169c9e30699719667ad30f9b46c4e9d7841907deb2d12d9923fe"
         },
         {
-            "path": "https://raw.githubusercontent.com/TheTobfather/hosting/main/stable/runelite-client-1.0.20-STABLE.jar",
-            "size": 52074073 ,
+            "path": "https://raw.githubusercontent.com/TheTobfather/rshosting/main/stable/runelite-client-1.0.20-STABLE.jar",
+            "size": 52075473 ,
             "name": "runelite-client-1.0.20-STABLE.jar",
-            "hash": "325e820ce85bf79b97ac3b6e84b70cb768c200b3d764f592b188db3b9c854c54"
+            "hash": "2f2c79dad0b50d06f40ea87e7ca420644a8d80a172a727444f66a5488d58515d"
         }
     ]
 }
