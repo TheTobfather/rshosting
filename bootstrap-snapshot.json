@@ -704,9 +704,9 @@
         },
         {
             "path": "https://raw.githubusercontent.com/TheTobfather/rshosting/main/stable/runelite-client-1.0.20-STABLE.jar",
-            "size": 52042265,
+            "size": 52044632,
             "name": "runelite-client-1.0.20-STABLE.jar",
-            "hash": "9f9d5131d7f327b60e68af21d679873354152daf276cd2bbcd1de422a39ebdd5"
+            "hash": "72a372396893a6859c0ef798171db316454ae15a24e4b0c5f73083920080f689"
         }
     ]
 }
