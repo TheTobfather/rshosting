@@ -72,7 +72,7 @@
         "checker-qual-3.8.0.jar": "c88c2e6a5fdaeb9f26fcf879264042de8a9ee9d376e2477838feaabcfa44dda6",
         "lwjgl-opengl-3.3.2-natives-macos-arm64.jar": "3120ecbcccf31f36064f260fa0127b4a359097a294ac5b3e7675d1867168f2e6",
         "pf4j-3.6.0.jar": "d0a653658b736f1916550a4e026a0ec24ccbde2a9b613a341588c4d7544643f4",
-        "runelite-client-1.0.20-STABLE.jar": "1297bf171f4d65f5b3f08e1865243e1c59faa45f8ac7c2f52c9d8713b0b45920",
+        "runelite-client-1.0.20-STABLE.jar": "088dd3a6e3bf4a82f05e21bf63382cc5310b807282f01d957b8bd8ce1d1043b6",
         "listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar": "b372a037d4230aa57fbeffdef30fd6123f9c0c2db85d0aced00c91b974f33f99",
         "commons-csv-1.9.0.jar": "c418d6aab4db4f1f70983d355de8d7c1e755c754820a92294da2e5f5081022cc",
         "autocomplete-3.1.1.jar": "c28575ea4256ce6fce57e820fd467b851c2bd4d816c8c51c24699ef832f91f7d",
@@ -706,7 +706,7 @@
             "path": "https://raw.githubusercontent.com/TheTobfather/rshosting/main/stable/runelite-client-1.0.20-STABLE.jar",
             "size": 52376956,
             "name": "runelite-client-1.0.20-STABLE.jar",
-            "hash": "1297bf171f4d65f5b3f08e1865243e1c59faa45f8ac7c2f52c9d8713b0b45920"
+            "hash": "088dd3a6e3bf4a82f05e21bf63382cc5310b807282f01d957b8bd8ce1d1043b6"
         }
     ]
 }
