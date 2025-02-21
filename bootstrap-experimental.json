@@ -16,7 +16,7 @@
         "-XX:CompileThreshold=1500",
         "--add-opens=java.desktop/sun.awt=ALL-UNNAMED"
     ],
-    "buildCommit": "ab575955848e4e468482c0a102b1c7b702340ecd",
+    "buildCommit": "9bb6792d178e0d3f1e1e285d86d8d0dc5bd8a0d4",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -181,25 +181,25 @@
     "projectVersion": "1.0.20-EXPERIMENTAL",
     "artifacts": [
         {
-            "path": "https://raw.githubusercontent.com/melxin/devious-hosting/master/experimental/runescape-api-1.0.20-EXPERIMENTAL.jar",
+            "path": "https://raw.githubusercontent.com/TheTobfather/rshosting/main/stable/runescape-api-1.0.20-EXPERIMENTAL.jar",
             "size": 139989,
             "name": "runescape-api-1.0.20-EXPERIMENTAL.jar",
             "hash": "836fc040c7d6c76ed71fbe38ebd2a7a00d6fa5d934740611ce5c631d25e3b7d2"
         },
         {
-            "path": "https://raw.githubusercontent.com/melxin/devious-hosting/master/experimental/runelite-api-1.0.20-EXPERIMENTAL.jar",
+            "path": "https://raw.githubusercontent.com/TheTobfather/rshosting/main/stable/runelite-api-1.0.20-EXPERIMENTAL.jar",
             "size": 1619750,
             "name": "runelite-api-1.0.20-EXPERIMENTAL.jar",
             "hash": "1f7a24f23e6175b293b9115cf70c82b777b80ac0c8580c4e75bda7b96b689fcc"
         },
         {
-            "path": "https://raw.githubusercontent.com/melxin/devious-hosting/master/experimental/http-api-1.0.20-EXPERIMENTAL.jar",
+            "path": "https://raw.githubusercontent.com/TheTobfather/rshosting/main/stable/http-api-1.0.20-EXPERIMENTAL.jar",
             "size": 95716,
             "name": "http-api-1.0.20-EXPERIMENTAL.jar",
             "hash": "e939dd6332977915fbcae8acdf45c384ab64c49c0a88c2c12af8317d3bbbf1ba"
         },
         {
-            "path": "https://raw.githubusercontent.com/melxin/devious-hosting/master/experimental/runelite-jshell-1.0.20-EXPERIMENTAL.jar",
+            "path": "https://raw.githubusercontent.com/TheTobfather/rshosting/main/stable/runelite-jshell-1.0.20-EXPERIMENTAL.jar",
             "size": 22950,
             "name": "runelite-jshell-1.0.20-EXPERIMENTAL.jar",
             "hash": "45263cf73d03229aa00d27eaf03d29bb8f93cd700a6ce8bff10bef66b0d87c33"
