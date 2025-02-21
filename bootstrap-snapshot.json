@@ -181,25 +181,25 @@
     "projectVersion": "1.0.20-EXPERIMENTAL",
     "artifacts": [
         {
-            "path": "https://raw.githubusercontent.com/TheTobfather/rshosting/main/stable/runescape-api-1.0.20-EXPERIMENTAL.jar",
+            "path": "https://raw.githubusercontent.com/TheTobfather/rshosting/main/snapshot/runescape-api-1.0.20-EXPERIMENTAL.jar",
             "size": 138412,
             "name": "runescape-api-1.0.20-EXPERIMENTAL.jar",
             "hash": "936836f09de1c11bcf53074fff76ec6571a60617f62dac0cd70ffa139826e5f7"
         },
         {
-            "path": "https://raw.githubusercontent.com/TheTobfather/rshosting/main/stable/runelite-api-1.0.20-EXPERIMENTAL.jar",
+            "path": "https://raw.githubusercontent.com/TheTobfather/rshosting/main/snapshot/runelite-api-1.0.20-EXPERIMENTAL.jar",
             "size": 1604870,
             "name": "runelite-api-1.0.20-EXPERIMENTAL.jar",
             "hash": "67740f9d49c8ee2a5251733c07e6c1d4d2018585b75ec8d9265a406de9babb5f"
         },
         {
-            "path": "https://raw.githubusercontent.com/TheTobfather/rshosting/main/stable/http-api-1.0.20-EXPERIMENTAL.jar",
+            "path": "https://raw.githubusercontent.com/TheTobfather/rshosting/main/snapshot/http-api-1.0.20-EXPERIMENTAL.jar",
             "size": 95717,
             "name": "http-api-1.0.20-EXPERIMENTAL.jar",
             "hash": "d4da777864c0e7096250f0bd5d0ec7fda0fa1ea7342c3900a41413351c3df2dc"
         },
         {
-            "path": "https://raw.githubusercontent.com/TheTobfather/rshosting/main/stable/runelite-jshell-1.0.20-EXPERIMENTAL.jar",
+            "path": "https://raw.githubusercontent.com/TheTobfather/rshosting/main/snapshot/runelite-jshell-1.0.20-EXPERIMENTAL.jar",
             "size": 22950,
             "name": "runelite-jshell-1.0.20-EXPERIMENTAL.jar",
             "hash": "45263cf73d03229aa00d27eaf03d29bb8f93cd700a6ce8bff10bef66b0d87c33"
@@ -703,7 +703,7 @@
             "hash": "f2bf2f2c7772169c9e30699719667ad30f9b46c4e9d7841907deb2d12d9923fe"
         },
         {
-            "path": "https://raw.githubusercontent.com/TheTobfather/rshosting/main/stable/runelite-client-1.0.20-STABLE.jar",
+            "path": "https://raw.githubusercontent.com/TheTobfather/rshosting/main/snapshot/runelite-client-1.0.20-STABLE.jar",
             "size": 52346402,
             "name": "runelite-client-1.0.20-STABLE.jar",
             "hash": "aeefdba877e82a4482760fb9c1971b08c1ec0c4ff701142e3f9e620b9a17874d"
