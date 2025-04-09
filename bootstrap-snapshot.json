@@ -190,13 +190,13 @@
             "path": "https://raw.githubusercontent.com/TheTobfather/rshosting/main/experimental/runelite-api-1.0.20-EXPERIMENTAL.jar",
             "size": 1622706,
             "name": "runelite-api-1.0.20-EXPERIMENTAL.jar",
-            "hash": "49e981fbf087053c15b2b01a7f4590b0c7950cd59e8b05b7595ee2c4683765e2"
+            "hash": "7403d0f9105bb289d83f27ce2ec9dc3403081ec4050c9e03e67278b108f01e0a"
         },
         {
             "path": "https://raw.githubusercontent.com/TheTobfather/rshosting/main/experimental/http-api-1.0.20-EXPERIMENTAL.jar",
             "size": 95716,
             "name": "http-api-1.0.20-EXPERIMENTAL.jar",
-            "hash": "7d4a1a77f9d8af6fc4d8ba98d7d936824476943a482536cfe7bbcf15a0ba63d0"
+            "hash": "b53be75284cecb04c5a66d8c36d3f987e02e1847f45c0c38c25162d4ec90d09c"
         },
         {
             "path": "https://raw.githubusercontent.com/TheTobfather/rshosting/main/experimental/runelite-jshell-1.0.20-EXPERIMENTAL.jar",
