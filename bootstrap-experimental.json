@@ -1,105 +1,42 @@
 {
-    "clientJvm17Arguments": [
-        "-XX:+DisableAttachMechanism",
-        "-Xmx1g",
-        "-Xss2m",
-        "-XX:CompileThreshold=1500",
-        "--add-opens=java.desktop/sun.awt=ALL-UNNAMED",
-        "-Dawt.useSystemAAFontSettings=on",
-        "-Dswing.aatext=true"
-    ],
-    "launcherJvm17Arguments": [
-        "-XX:+DisableAttachMechanism",
-        "-Drunelite.launcher.nojvm=true",
-        "-Xmx1g",
-        "-Xss2m",
-        "-XX:CompileThreshold=1500",
-        "--add-opens=java.desktop/sun.awt=ALL-UNNAMED"
-    ],
-    "buildCommit": "9bb6792d178e0d3f1e1e285d86d8d0dc5bd8a0d4",
-    "launcherJvm11Arguments": [
-        "-XX:+DisableAttachMechanism",
-        "-Drunelite.launcher.nojvm=true",
-        "-Xmx1g",
-        "-Xss2m",
-        "-XX:CompileThreshold=1500"
-    ],
-    "dependencyHashes": {
-        "runelite-client-1.0.20-STABLE.jar": "dd09190a8fd676567f9c5cba67c0cca7f4ca59469455f3d0c097062e7f9c4f37",
-    },
-    "launcherJvm17MacArguments": [
-        "-XX:+DisableAttachMechanism",
-        "-Drunelite.launcher.nojvm=true",
-        "-Xmx1g",
-        "-Xss2m",
-        "-XX:CompileThreshold=1500",
-        "--add-opens=java.desktop/sun.awt=ALL-UNNAMED",
-        "--add-opens=java.desktop/com.apple.eawt=ALL-UNNAMED"
-    ],
-    "clientJvmArguments": [
-        "-XX:+DisableAttachMechanism",
-        "-Xmx1g",
-        "-Xss2m",
-        "-XX:CompileThreshold=1500",
-        "-Xincgc",
-        "-XX:+UseConcMarkSweepGC",
-        "-XX:+UseParNewGC",
-        "-Dawt.useSystemAAFontSettings=on",
-        "-Dswing.aatext=true"
-    ],
-    "launcherArguments": [
-        "-XX:+DisableAttachMechanism",
-        "-Drunelite.launcher.nojvm=true",
-        "-Xmx1g",
-        "-Xss2m",
-        "-XX:CompileThreshold=1500",
-        "-Xincgc",
-        "-XX:+UseConcMarkSweepGC",
-        "-XX:+UseParNewGC"
-    ],
-    "launcherJvm17WindowsArguments": [
-        "-XX:+DisableAttachMechanism",
-        "-Drunelite.launcher.nojvm=true",
-        "-Drunelite.launcher.blacklistedDlls=RTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,k_fps32.dll,k_fps64.dll",
-        "-Xmx1g",
-        "-Xss2m",
-        "-XX:CompileThreshold=1500",
-        "--add-opens=java.desktop/sun.awt=ALL-UNNAMED"
-    ],
-    "minimumLauncherVersion": "1.0.0",
-    "launcherJvm11WindowsArguments": [
-        "-XX:+DisableAttachMechanism",
-        "-Drunelite.launcher.nojvm=true",
-        "-Drunelite.launcher.blacklistedDlls=RTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,k_fps32.dll,k_fps64.dll",
-        "-Xmx1g",
-        "-Xss2m",
-        "-XX:CompileThreshold=1500"
-    ],
-    "clientJvm9Arguments": [
-        "-XX:+DisableAttachMechanism",
-        "-Xmx1g",
-        "-Xss2m",
-        "-XX:CompileThreshold=1500",
-        "-Dawt.useSystemAAFontSettings=on",
-        "-Dswing.aatext=true"
-    ],
-    "clientJvm17MacArguments": [
-        "-XX:+DisableAttachMechanism",
-        "-Xmx1g",
-        "-Xss2m",
-        "-XX:CompileThreshold=1500",
-        "--add-opens=java.desktop/sun.awt=ALL-UNNAMED",
-        "--add-opens=java.desktop/com.apple.eawt=ALL-UNNAMED",
-        "-Dawt.useSystemAAFontSettings=on",
-        "-Dswing.aatext=true"
-    ],
-    "projectVersion": "1.0.20-EXPERIMENTAL",
-    "artifacts": [
-        {
-            "path": "https://raw.githubusercontent.com/TheTobfather/rshosting/main/experimental/runelite-client-1.0.20-STABLE.jar",
-            "size": 65892291,
-            "name": "runelite-client-1.0.20-STABLE.jar",
-            "hash": "dd09190a8fd676567f9c5cba67c0cca7f4ca59469455f3d0c097062e7f9c4f37"
-        }
-    ]
+  "clientJvm17Arguments": [
+    "-XX:+DisableAttachMechanism",
+    "-Xmx1g",
+    "-Xss2m",
+    "-XX:CompileThreshold=1500",
+    "--add-opens=java.desktop/sun.awt=ALL-UNNAMED",
+    "-Dawt.useSystemAAFontSettings=on",
+    "-Dswing.aatext=true"
+  ],
+  "launcherJvm17Arguments": [
+    "-XX:+DisableAttachMechanism",
+    "-Drunelite.launcher.nojvm=true",
+    "-Xmx1g",
+    "-Xss2m",
+    "-XX:CompileThreshold=1500",
+    "--add-opens=java.desktop/sun.awt=ALL-UNNAMED"
+  ],
+  "launcherJvm17WindowsArguments": [
+    "-XX:+DisableAttachMechanism",
+    "-Drunelite.launcher.nojvm=true",
+    "-Drunelite.launcher.blacklistedDlls=RTSSHooks.dll,RTSSHooks64.dll,NahimicOSD.dll,k_fps32.dll,k_fps64.dll",
+    "-Xmx1g",
+    "-Xss2m",
+    "-XX:CompileThreshold=1500",
+    "--add-opens=java.desktop/sun.awt=ALL-UNNAMED"
+  ],
+  "buildCommit": "9bb6792d178e0d3f1e1e285d86d8d0dc5bd8a0d4",
+  "minimumLauncherVersion": "1.0.0",
+  "projectVersion": "1.0.20-STABLE",
+  "dependencyHashes": {
+    "runelite-client-1.0.20-STABLE.jar": "dd09190a8fd676567f9c5cba67c0cca7f4ca59469455f3d0c097062e7f9c4f37"
+  },
+  "artifacts": [
+    {
+      "path": "https://raw.githubusercontent.com/TheTobfather/rshosting/main/experimental/runelite-client-1.0.20-STABLE.jar",
+      "size": 65892291,
+      "name": "runelite-client-1.0.20-STABLE.jar",
+      "hash": "dd09190a8fd676567f9c5cba67c0cca7f4ca59469455f3d0c097062e7f9c4f37"
+    }
+  ]
 }
